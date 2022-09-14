@@ -5,5 +5,5 @@
  
  <div style="text-align:center;">
  <p>Connect with me : </p>
- <a href="https://www.linkedin.com/in/hamzajwiehan/" > <img src="./linkedin-app-ico.svg" width="50" height="50" ></a>
+ <a href="https://www.linkedin.com/in/hamzajwiehan/" > <img src="linkedin-app-icon.svg" width="50" height="50" ></a>
  </div>
