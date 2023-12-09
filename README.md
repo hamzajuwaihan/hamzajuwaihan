@@ -1,7 +1,7 @@
 # Hey there I'm Hamza 🙋‍♂️
- An excited fresh graudate with a Bachelor's degree in Computer Science.
- I am currently with Coding Academy by Orange bootcamp until 12/2022, I hope that I get a good opportunity in web development field.<br>
- currently in a Full-Stack laravel | React web development career path. I am open to new adventures and learning new things !
+Computer science graduate and passionate self-taught web developer with a solid academic background and a 3.56 GPA. Currently working as an implementation engineer for self-service kiosks, gaining valuable experience in complex system implementation and troubleshooting.
+
+I am continuously expanding my web development expertise and staying updated with industry trends and technologies. Dedicated to delivering high-quality educational content through my YouTube channel, A Grade, where I provide clear and easy-to-understand explanations of computer science topics.
  
  <div align="center">
  <p>Connect with me : </p>
